@@ -1,0 +1,37 @@
+- Checking running time of Array 50000.txt type
+
+SORT 1:
+    //reverse - 6237 / 5096 / 235
+    //random  - 8012 / 6979 / 206
+    //sorted  - 597 / 042 / 137
+
+SORT 2:
+    //reverse - 734 / 043 / 166
+    //random  - 621 / 043 / 153
+    //sorted  - 684 / 045 / 136
+
+SORT 3:
+    //reverse - 3364 / 2717 / 191
+    //random  - 3705 / 2870 / 156
+    //sorted  - 3322 / 2697 / 190
+
+
+sort1 uses: Bubble Sort.
+
+How do you know?
+- since the Bubble sort's running time is differ base on array types >> Big O is n square while Omega is n.
+    >> thus, Sorted array type should takes alot faster that other types as shown above.
+- For Sort2 and Sort3 - both sort type completing task for all 3 array types at almost same time (define as Big O == Omega).
+
+
+sort2 uses: Merge Sort.
+
+How do you know?
+- since the Merge sort's running time types are the same (Big O == Omega).
+- Comparing with Sort1 and Sort3 >> Sort2 takes shortes time to complete all 3 array types.
+
+
+sort3 uses: Selection Sort.
+
+How do you know?
+- Completing all 3 array types at almost same time (define as Big O == Omega).
