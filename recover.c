@@ -74,8 +74,3 @@ int main(int argc, char *argv[])
 
     return 0;
 }
-
-//CURRENT PROBLEM FACING
-//- dont know what type of file is dealing with
-//- some function tools (suchg as sprintf) dont understand how to use, even searching on the internet >> required the explantion from Brian
-//-
